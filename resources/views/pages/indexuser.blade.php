@@ -43,7 +43,7 @@
             <div class="section__content section__content--p35">
                 <div class="header3-wrap">
                     <div class="header__logo">
-                        <a href="/user">
+                        <a href="#">
                             <img style="height: 52px; weight: 179px" src="assets/icon/userwhite.png" alt="CoolAdmin" />
                         </a>
                     </div>
@@ -92,7 +92,7 @@
             <div class="header-mobile__bar">
                 <div class="container-fluid">
                     <div class="header-mobile-inner">
-                        <a class="logo" href="index.html">
+                        <a class="logo" href="#">
                             <img style="height: 52px; weight: 179px" src="assets/icon/userwhite.png" alt="CoolAdmin" />
                         </a>
                     </div>
